@@ -4,9 +4,6 @@
 Denne oppgaven er en innlevering i Algoritmer og Datastrukturer. 
 Oppgaven er levert av følgende studenter:
 * Enes Ergin, s351880, s351880@oslomet.no
-# Notat til den som retter
-Dersom det er Andre som retter, du vet om problemene jeg har opplevd og hvorfor arbeidet ikke er godt spredt utover tid og hvorfor git-bruket ikke er det beste. Dersom det er noen andre som retter, Andre har sagt at det er greit for å få godkjent, men at jeg må være ekstra flink med dokumentasjon på readme-filen. Det skal jeg gjøre mitt beste på :)
-
 
 # Oppgavebeskrivelse
 
